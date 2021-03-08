@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "6045d70ea17df411f44d429b",
+        "name": "Elon Musk",
+        "imgUrl": "svg",
+        "__v": 0
+    },
+    {
+        "_id": "6045d70ea17df411f44d429c",
+        "name": "Jeff Bezos",
+        "imgUrl": "https://source.unsplash.com/random",
+        "__v": 0
+    },
+    {
+        "_id": "6045dfb5f1ccc32504275c2c",
+        "name": "Elon Musk",
+        "imgUrl": "svg",
+        "__v": 0
+    },
+    {
+        "_id": "6045dfb5f1ccc32504275c2d",
+        "name": "Jeff Bezos",
+        "imgUrl": "https://source.unsplash.com/random",
+        "__v": 0
+    }
+]
